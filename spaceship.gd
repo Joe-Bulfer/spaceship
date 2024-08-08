@@ -1,3 +1,4 @@
+#press f6 to run whole scene, it runs both files. I have to learn how to run one script at a time tho.
 extends Node2D
 
 # Rotation speed in radians per second
