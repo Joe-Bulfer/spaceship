@@ -1,0 +1,1 @@
+Planets orbit in ovals, which are represented with a triangle whose two sides move while one side is stationiary (down the middle of the oval). Gravity is any particle, node or spaceship's vector (x, y pos.) being modified by other node's vector/position depending on their distance between them and... surface area? Arbritrary density variable? 
