@@ -8,6 +8,8 @@ make_oscillator(
 	center = (30,60)
 ```
 
+![](oscillator_and_spaceship.gif)
+
 The player/spaceship has rotation and movement/thrust. Using lerp (linear interpolation) there smooth acceleration.
 
 Random notes:
